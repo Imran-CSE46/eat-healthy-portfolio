@@ -82,13 +82,13 @@ h3 {
 }
 
 .first-margin {
-    margin-left: 13%;
-    margin-right: 2%;
+    margin-left: 12%;
+    margin-right: 3%;
 }
 
 .second-margin {
-    margin-left: 2%;
-    margin-right: 13%;
+    margin-left: 3%;
+    margin-right: 12%;
 }
 
 .my-recipies img {
@@ -97,4 +97,36 @@ h3 {
     padding-top: 5%;
     padding-right: 5%;
 
+}
+
+.my-subscriber {
+    width: 76%;
+    height: 160px;
+    margin-left: 12%;
+    margin-top: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+}
+
+.my-subscriber-text {
+    padding-left: 15%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.my-subscriber-text h2 {
+    margin: 0px 0px 5px 0px;
+
+    padding: 30px 0px 0px 0px;
+}
+
+.eat-fresh {
+    background-color: black;
+    height: 200px;
+    color: white;
+}
+
+.eat-fresh-text {
+    text-align: center;
+    padding-top: 1%;
 }
