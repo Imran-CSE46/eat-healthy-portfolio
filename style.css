@@ -12,7 +12,7 @@ h2 {
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .flexible-container {
@@ -74,11 +74,27 @@ h3 {
 }
 
 .my-recipies {
-    width: 40%;
-    height: 400px;
+    width: 35%;
+    height: 500px;
     padding-left: 2%;
-    margin-left: 5%;
-    margin-right: 5%;
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
+}
+
+.first-margin {
+    margin-left: 13%;
+    margin-right: 2%;
+}
+
+.second-margin {
+    margin-left: 2%;
+    margin-right: 13%;
+}
+
+.my-recipies img {
+    width: 95%;
+    height: 60%;
+    padding-top: 5%;
+    padding-right: 5%;
+
 }
